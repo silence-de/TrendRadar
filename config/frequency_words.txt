@@ -13,6 +13,7 @@ HarmonyOS
 DJI
 
 宇树
+宇树科技
 王兴兴
 
 智元
@@ -25,10 +26,12 @@ DJI
 
 字节
 bytedance
+字节跳动
 张一鸣
 
 特斯拉
 马斯克
+Elon Musk
 
 微软
 Microsoft
@@ -38,31 +41,104 @@ NVIDIA
 黄仁勋
 
 AMD
+Intel
 
 谷歌
 google
+Gemini
 gemini
+DeepMind
 deepmind
 
-chatgpt
+Meta
+Facebook
+Amazon
+AWS
+
+OpenAI
 openai
+ChatGPT
+chatgpt
+Sora
 sora
 
-claude
 Anthropic
+Anthropic
+Claude
+claude
+xAI
+Grok
 
+苹果
+Apple
 iphone
+iPhone
 ipad
+iPad
 mac
+Mac
 ios
+iOS
+
+AGI
+通用人工智能
+Agentic AI
+agentic ai
+AI Agent
+AI agent
+AI 编程
+AI coding
+AIGC
+大模型
+LLM
+VLA
+多模态
+具身智能
+Embodied AI
 
 ai
 !gai
 人工智能
 
 自动驾驶
+Robotaxi
+FSD
+L2
+L3
+激光雷达
+Lidar
+高精地图
 
 机器人
+人形机器人
+humanoid
+机械臂
+
+TCON
+TCON 芯片
+显示芯片
+显示驱动
+显示控制
+Display
+显示器
+panel
+OLED
+MiniLED
+MicroLED
+量子点
+QLED
+
+芯片
+Chip
+半导体
+GPU
+TPU
+NPU
+加速器
+加速卡
+光刻机
+EUV
+ASML
 
 国产
 中国
@@ -71,21 +147,25 @@ ai
 日本
 韩国
 
-芯片
-光刻机
-
 科技
+新质生产力
 
 核能
+核电
 
 水电站
 雅鲁藏布江
-
-新质生产力
+三峡
 
 月球
 登月
 火星
 宇宙
 飞船
+航天
 航空
+火箭
+空间站
+
+!车
+!餐
